@@ -29,8 +29,7 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 ## Mock-up
 
 The following image shows the web application's appearance and functionality:
-
-![Employee Tracker Video](./images/employeeTracker.mp4)
+![Video](./images/employeeTracker.mp4)
 ![Home Page](./images/HomePage.jpg)
 ![Home Page First Name](./images/HomePage_fn.jpg)
 ![Home Page Last Name](./images/HomePage_ln.jpg)
