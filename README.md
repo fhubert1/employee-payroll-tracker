@@ -29,7 +29,7 @@ THEN my employee data is displayed on the page sorted alphabetically by last nam
 
 ## Deployment
 
-![Application](https://fhubert1.github.io/employee-payroll-tracker/)
+[Employee Payroll Tracker](https://fhubert1.github.io/employee-payroll-tracker/)
 
 
 ## Mock-up
