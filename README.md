@@ -26,12 +26,20 @@ THEN I am prompted to add a new employee
 WHEN I choose to cancel
 THEN my employee data is displayed on the page sorted alphabetically by last name, and the console shows computed and aggregated data
 
+
+## Application
+
+![Application](https://fhubert1.github.io/employee-payroll-tracker/)
+
+
 ## Mock-up
 
 The following image shows the web application's appearance and functionality:
+
 ![Video](./images/employeeTracker.mp4)
 ![Home Page](./images/HomePage.jpg)
 ![Home Page First Name](./images/HomePage_fn.jpg)
 ![Home Page Last Name](./images/HomePage_ln.jpg)
 ![Home Page Salary](./images/HomePage_sal.jpg)
 ![Home Page Results](./images/ResultsPage.jpg)
+
